@@ -1,0 +1,7 @@
+﻿################################################################################
+# Ten plik .gitignore został utworzony automatycznie przez Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Lost-in-Russia/.vs/Lost-in-Russia/v15
+/Lost-in-Russia/obj/Debug
