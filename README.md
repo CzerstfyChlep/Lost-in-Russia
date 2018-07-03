@@ -5,7 +5,7 @@ A small Soviet text game.
 The main character is Andrzej, he is 44 years old.
 He works in the shop as a seller.
 He has a family, a wife from Ukraine.
-One day he is stunned and arrested.
+He is stunned and arrested.
 The hero will be interrogated by the KGB inspector - Wadim Bakatin.
 You will learn the rest of the story during the game...
 
