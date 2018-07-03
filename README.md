@@ -12,14 +12,14 @@ You will learn the rest of the story during the game...
 ## Requirements (for Windows systems)
   - Windows 7 or newer
   - .NET Framework 4.6 or newer
-  - minimum 128 MB of RAM
+  - minimum 1024 MB of RAM
   - minimum 256 MB of free space on HDD
   - VGA graphic card
   - speakers
   
 ## Requirements (for Linux/Mac OS systems)
   - Mono 5.10 or newer
-  - minimum 256 MB of RAM
+  - minimum 1024 MB of RAM
   - minimum 512 MB of free space on HDD
   - VGA graphic card
   - speakers
